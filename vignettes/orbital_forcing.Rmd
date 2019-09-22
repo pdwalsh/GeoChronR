@@ -1,5 +1,13 @@
 ---
 title: "Orbital forcing"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Orbital forcing}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+---
+title: "Orbital forcing"
 author: "Julien Emile-Geay"
 date: "6/25/2019"
 output: html_document

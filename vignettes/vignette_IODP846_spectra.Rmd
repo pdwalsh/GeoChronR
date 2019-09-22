@@ -1,8 +1,9 @@
 ---
 title: "Search for Milankovitch"
-output:
-  html_document:
-    df_print: paged
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Orbital forcing}
+  %\VignetteEngine{knitr::rmarkdown}
 ---
 
 ```{r global_options, include=FALSE}
